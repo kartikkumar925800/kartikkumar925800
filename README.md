@@ -1,5 +1,3 @@
-# GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kartikkumar925800&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 # About Me
 I am a Full-Stack Software Engineer specializing in scalable enterprise architectures and high-performance web applications.
