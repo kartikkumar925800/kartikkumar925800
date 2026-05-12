@@ -1,6 +1,11 @@
 # Kartik Kumar
 ### Full-Stack Software Engineer
 
+<div align="left">
+  <img src="https://ghchart.rshah.org/216e39/kartikkumar925800" alt="Kartik's GitHub Contribution Graph" />
+  <p><strong>7,100+ contributions in the last year</strong></p>
+</div>
+
 ---
 # About Me
 I am a Full-Stack Software Engineer specializing in scalable enterprise architectures and high-performance web applications.
@@ -11,6 +16,7 @@ I am a Full-Stack Software Engineer specializing in scalable enterprise architec
 - Collaboration: I am actively looking to collaborate on complex full-stack applications, distributed systems, and open-source architecture. Reach out if you want to discuss system design, backend optimization, or potential engineering opportunities.
 
 ---
+
 # Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/kartikkumar925800" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -31,10 +37,3 @@ I am a Full-Stack Software Engineer specializing in scalable enterprise architec
 </p>
 
 ---
-
-# Certifications & Achievements
-- Full-Stack Java Intern Certification | AMDOX
-- Cybersecurity Analyst Certification | IBM
-- Cisco Cybersecurity Essentials | Cisco Networking Academy
-- MongoDB & SQL Mastery | MongoDB University
-- Data Structures & Algorithms | NPTEL
