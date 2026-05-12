@@ -1,4 +1,7 @@
+# Kartik Kumar
+### Full-Stack Software Engineer
 
+---
 # About Me
 I am a Full-Stack Software Engineer specializing in scalable enterprise architectures and high-performance web applications.
 
@@ -7,6 +10,7 @@ I am a Full-Stack Software Engineer specializing in scalable enterprise architec
 - Academic Research: Authored an IEEE-standard research paper focused on real-time sentiment analysis and predictive architecture (PrepAI).
 - Collaboration: I am actively looking to collaborate on complex full-stack applications, distributed systems, and open-source architecture. Reach out if you want to discuss system design, backend optimization, or potential engineering opportunities.
 
+---
 # Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/kartikkumar925800" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,6 +21,7 @@ I am a Full-Stack Software Engineer specializing in scalable enterprise architec
 <b></b>
 <img src="https://komarev.com/ghpvc/?username=kartikkumar925800&style=flat-square&color=blue" alt="Profile Views" />
 
+---
 
 # Core Tech Stack
 <p align="left">
@@ -24,6 +29,8 @@ I am a Full-Stack Software Engineer specializing in scalable enterprise architec
     <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nextjs,tailwind,mysql,postgres,mongodb,bash,linux&theme=dark" alt="Tech Stack"/>
   </a>
 </p>
+
+---
 
 # Certifications & Achievements
 - Full-Stack Java Intern Certification | AMDOX
